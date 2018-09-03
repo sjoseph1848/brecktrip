@@ -1,5 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=PT+Sans");
 
+h1 {
+  color: white;
+}
 /* CSS var */
 :root {
   --primary-color: #b90415;
