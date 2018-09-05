@@ -1,5 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=PT+Sans");
 
+h1 {
+  color: white;
+}
 /* CSS var */
 :root {
   --primary-color: #b90415;
@@ -205,7 +208,7 @@ nav a#openup {
   display: none;
 }
 
-@media screen and (max-width: 580px) {
+@media screen and (max-width: 380px) {
   .hide-on-small {
     display: none;
   }
