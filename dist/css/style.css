@@ -208,7 +208,7 @@ nav a#openup {
   display: none;
 }
 
-@media screen and (max-width: 580px) {
+@media screen and (max-width: 380px) {
   .hide-on-small {
     display: none;
   }
